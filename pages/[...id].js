@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import cheerio from "cheerio";
+// import cheerio from "cheerio";
 import Image from "next/image";
 import { ImBooks } from "react-icons/im";
 import { useRouter } from "next/router";
