@@ -5,7 +5,7 @@ import { ImBooks } from "react-icons/im";
 import { useRouter } from "next/router";
 import Link from "next/link";
 import Head from "next/head";
-import UserAgent from "user-agents";
+// import UserAgent from "user-agents";
 
 export default function Test({ id }) {
   const userAgent = new UserAgent();
