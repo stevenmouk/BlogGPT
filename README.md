@@ -1,4 +1,11 @@
+# BlogtGPT:
+
+<img width="1440" alt="Screen Shot 2023-05-15 at 7 12 49 PM" src="https://github.com/stevenmouk/BlogGPT/assets/70982072/a12772b8-0f3a-4fd8-ade2-31308b411224">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
