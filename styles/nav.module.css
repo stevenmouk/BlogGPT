@@ -1,0 +1,137 @@
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/newsreader/v19/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438wSo_wBOZFHDWwgUii5SY.woff2)
+    format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0,
+    U+1EA0-1EF9, U+20AB;
+}
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap");
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/newsreader/v19/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438wSo_wBeZFHDWwgUii5SY.woff2)
+    format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113,
+    U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/newsreader/v19/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438wSo_wC-ZFHDWwgUii.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F,
+    U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: Nata-SemiBold;
+  src: url(https://yemen.buriedsignals.com/_next/static/media/font.f5397c472f8120835b21b180f9a38966.woff2)
+      format("woff2"),
+    url(https://yemen.buriedsignals.com/_next/static/media/font.df2512e9534530c057f1557fa3c5393b.woff)
+      format("woff");
+}
+
+.iUILPX {
+  max-width: 630px;
+  margin-top: 26px;
+}
+
+.evgYyx {
+  position: relative;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.eQtoWd {
+  min-width: 100vw;
+  min-height: 100vh;
+  animation: 1.5s ease 0s 1 normal none running appear;
+}
+
+.dom {
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+.body {
+  background: #060d00;
+  font-family: "Martel Sans", sans-serif;
+}
+
+.h1 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.fspmxi {
+  padding: 20px 0px 26px;
+  color: rgb(229, 229, 229);
+  font-family: Nata-SemiBold;
+  font-size: 140px;
+  line-height: 132px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  overflow: hidden;
+}
+
+.fspmxi span {
+  display: inline-block;
+}
+
+.fspmxi .red {
+  color: rgb(200, 39, 3);
+}
+
+.fspmxi span.word {
+  position: relative;
+  overflow: hidden;
+}
+
+.iUILPX {
+  max-width: 630px;
+  margin-top: 26px;
+}
+
+.evgYyx {
+  position: relative;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.eQtoWd {
+  min-width: 100vw;
+  min-height: 100vh;
+  animation: 1.5s ease 0s 1 normal none running appear;
+}
+
+.dom {
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+.cKqlIw {
+  width: 165px;
+  height: 5px;
+  background: linear-gradient(90deg, rgb(200, 39, 3) 15%, rgb(229, 229, 229) 15%);
+}
+
+.line {
+  transform-origin: left top;
+}
